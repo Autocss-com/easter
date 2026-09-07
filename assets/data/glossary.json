@@ -1,0 +1,371 @@
+{
+  "section": [
+    {
+      "blockquote": [
+        "“For just as each of us has one body with many members, and these members do not all have the same function, so in Christ we, though many, form one body, and each member belongs to all the others. We have different gifts, according to the grace given to each of us.” — Romans 12:4-6"
+      ]
+    },
+    {
+      "h1": [
+        "Ministry Overview and Index"
+      ]
+    },
+    {
+      "h2": [
+        "Introduction"
+      ],
+      "p": [
+        "The ministry section defines the heart, theology, and leadership philosophy that guide all aspects of the church's creative and stage work. It exists to ensure that every production — from a small skit to a full Easter pageant — is grounded in biblical truth, servant leadership, and sustainable teamwork.",
+        "The purpose of this section is to align every creative decision with spiritual formation, not performance perfection."
+      ]
+    },
+    {
+      "h2": [
+        "Ministry Philosophy"
+      ],
+      "ul": [
+        {
+          "li": [
+            "Christ-Centered Creativity - Every art form reflects the image of the Creator.",
+            "Servant Leadership - Those who lead do so by serving.",
+            "Community and Unity - Each role is part of one body working together for the Gospel.",
+            "Sustainability - Healthy teams outlast busy ones.",
+            "Discipleship Through Service - Every rehearsal is an opportunity for growth in faith."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": [
+        "Included Documents"
+      ],
+      "ul": [
+        {
+          "li": [
+            "File — Focus — Description",
+            "purpose.md — Ministry Purpose — Why we serve through the creative arts and what it means to worship through story.",
+            "theology-of-art.md — Theology of Art — The biblical foundation for creativity as worship.",
+            "servant-leadership.md — Leadership Model — Jesus-centered leadership principles for teams and directors.",
+            "sustainability.md — Healthy Rhythms — Practices to prevent burnout and promote long-term joy in service.",
+            "church-roles.md — Church Alignment — How the ministry fits within church leadership and structure.",
+            "code-of-conduct.md — Volunteer Conduct — Guidelines for behavior and unity across all teams."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": [
+        "Integration Notes"
+      ],
+      "ul": [
+        {
+          "li": [
+            "All ministry documents adhere to the /schema.yaml structure.",
+            "Updates are tracked in /docs/07_glossary/change-log.md.",
+            "Feedback or improvements can be submitted via /docs/07_glossary/feedback.md."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": [
+        "Ministry Focus"
+      ],
+      "p": [
+        "The ministry section exists to root the entire production effort in the life of the Church. When creativity flows from discipleship, art becomes worship, and performance becomes proclamation."
+      ]
+    },
+    {
+      "h1": [
+        "Glossary & Reference Overview"
+      ],
+      "p": [
+        "This section collects tools and references that support smooth ministry operation — checklists, forms, templates, and logs for documentation and improvement.",
+        "Related Sections:"
+      ],
+      "ul": [
+        {
+          "li": [
+            "File — Focus — Description",
+            "checklists.md — Readiness Tools — Rehearsal and performance preparation lists.",
+            "templates.md — Reusable Forms — Communication, devotion, and evaluation templates.",
+            "feedback.md — Input & Collaboration — Feedback process for volunteers and leaders.",
+            "change-log.md — Version History — Records documentation updates and changes.",
+            "index.md — Overview — Master index and summary for reference resources.",
+            "Rehearsal — preparation and scheduling",
+            "Ministry — servant leadership and sustainability",
+            "File — Focus — Description",
+            "change-log.md — Change Log — Version history and update log for the Church Stage Performance Knowledge MCP documentation set.",
+            "checklists.md — Checklists — Comprehensive pre-rehearsal, performance, and safety checklists for ministry production teams.",
+            "feedback.md — Feedback — Process and form for submitting feedback, corrections, or suggestions for ministry documentation and operations.",
+            "templates.md — Templates — Common templates for communication, devotionals, and evaluations."
+          ]
+        }
+      ]
+    },
+    {
+      "blockquote": [
+        "“Commit to the Lord whatever you do, and he will establish your plans.” — Proverbs 16:3"
+      ]
+    },
+    {
+      "h2": [
+        "Documentation Change Log"
+      ]
+    },
+    {
+      "h3": [
+        "Purpose"
+      ],
+      "p": [
+        "This change log records updates, revisions, and additions to the Church Stage Performance Knowledge MCP repository. It ensures transparency, accountability, and continuity as the ministry's documentation evolves over time."
+      ]
+    },
+    {
+      "h3": [
+        "Version History"
+      ],
+      "ul": [
+        {
+          "li": [
+            "Date — Version — Section(s) Updated — Description — Author / Editor",
+            "2025-11-05 — v1.0 — /docs/ Initial Release — Created initial structure for all ministry, roles, rehearsal, production, and basics documentation. — ChatGPT + Leadership Review",
+            "2025-11-06 — v1.1 — /docs/05_production/* — Added cues.md, lighting.md, props.md, and script.md for production workflow coverage. — ChatGPT",
+            "2025-11-07 — v1.2 — /docs/04_rehearsal/* — Expanded schedule.md with Easter timeline and devotionals for rehearsal integration. — ChatGPT",
+            "2025-11-07 — v1.3 — /docs/06_ministry/* — Added full ministry section (purpose, servant-leadership, sustainability, code-of-conduct, church-roles). — ChatGPT",
+            "2025-11-08 — v1.4 — /docs/03_basics/* — Completed choreography, expression, projection, and stage-directions foundational entries. — ChatGPT",
+            "2025-11-08 — v1.5 — /manifest.json & /schema.yaml — Finalized schema and MCP manifest for future server integration. — ChatGPT"
+          ]
+        }
+      ]
+    },
+    {
+      "h3": [
+        "Planned Updates (v1.6 → v2.0)"
+      ],
+      "ul": [
+        {
+          "li": [
+            "Planned Date — Section — Focus",
+            "2025-11-10 — /docs/02_roles/* — Add Stage Manager, Technical Director, and Costume Team roles.",
+            "2025-11-15 — /docs/07_glossary/* — Add ready-to-print volunteer handbook and calendar templates.",
+            "2025-12-01 — /docs/ — Begin Phase 2 content refinement with staff and volunteer feedback.",
+            "2026-01-05 — /manifest.json — Register MCP resource endpoints for automated retrieval and version queries."
+          ]
+        }
+      ]
+    },
+    {
+      "h3": [
+        "Change Management Policy"
+      ],
+      "ul": [
+        {
+          "li": [
+            "All edits must follow the /schema.yaml structure.",
+            "New or revised documents require review by a Creative Arts Director or Ministry Lead.",
+            "Version updates are labeled sequentially (v1.1, v1.2…) and logged here.",
+            "Major revisions (v2.0, v3.0, etc.) represent significant structural or theological updates.",
+            "Each edit entry must include author initials and a one-line summary."
+          ]
+        }
+      ]
+    },
+    {
+      "h3": [
+        "Ministry Focus"
+      ],
+      "p": [
+        "Change is part of faithful stewardship — refining tools so the ministry can serve better each season. Every update represents growth in clarity, unity, and excellence for the glory of God."
+      ]
+    },
+    {
+      "blockquote": [
+        "“But everything should be done in a fitting and orderly way.” — 1 Corinthians 14:40"
+      ]
+    },
+    {
+      "h2": [
+        "Production & Rehearsal Checklists"
+      ]
+    },
+    {
+      "h3": [
+        "Purpose"
+      ],
+      "p": [
+        "Checklists create consistency, reduce stress, and protect against oversight. They ensure that every role — from director to volunteer — begins each rehearsal or service ready, safe, and unified in purpose."
+      ]
+    },
+    {
+      "h3": [
+        "🎭 Rehearsal Readiness Checklist"
+      ],
+      "ul": [
+        {
+          "li": [
+            "Task — Responsibility — Status",
+            "Room and stage area cleared — Stage Manager / Tech Team — ☐",
+            "Scripts, music, and cue sheets distributed — Producer / Director — ☐",
+            "Props and costumes set in place — Props / Costume Teams — ☐",
+            "Lighting and sound tested — Tech Team — ☐",
+            "Devotional material prepared — Director / Ministry Lead — ☐",
+            "Attendance confirmed — Producer — ☐",
+            "Prayer and opening remarks complete — Director / Choral Director — ☐"
+          ]
+        }
+      ]
+    },
+    {
+      "h3": [
+        "🔊 Technical Setup Checklist"
+      ],
+      "ul": [
+        {
+          "li": [
+            "Task — Responsibility — Status",
+            "All microphones tested and labeled — Audio Lead — ☐",
+            "Monitor and main speakers balanced — Sound Engineer — ☐",
+            "Lighting cues loaded and verified — Lighting Operator — ☐",
+            "Stage cables secured and taped — Tech Crew — ☐",
+            "Projector or slides tested — Media Operator — ☐",
+            "Backup batteries available — Tech Team — ☐",
+            "Power-off checklist posted backstage — Stage Manager — ☐"
+          ]
+        }
+      ]
+    },
+    {
+      "h3": [
+        "🕯️ Performance Night Checklist"
+      ],
+      "ul": [
+        {
+          "li": [
+            "Task — Responsibility — Status",
+            "All team members signed in — Producer — ☐",
+            "Costumes and props inspected — Costume / Props Leads — ☐",
+            "Tech booth communication tested — Tech Lead — ☐",
+            "Cue books placed and labeled — Stage Manager — ☐",
+            "Pre-service prayer completed — Director / Pastor — ☐",
+            "Audience seating and safety confirmed — Ushers / Hospitality — ☐",
+            "Emergency exits clear — Facilities Team — ☐"
+          ]
+        }
+      ]
+    },
+    {
+      "h3": [
+        "⚙️ Post-Performance Checklist"
+      ],
+      "ul": [
+        {
+          "li": [
+            "Task — Responsibility — Status",
+            "Power down lighting and sound systems — Tech Team — ☐",
+            "Return and store all props — Props Team — ☐",
+            "Clean and reset stage area — Volunteers / Facilities — ☐",
+            "Collect unused scripts and materials — Producer — ☐",
+            "Debrief session and prayer — Leadership Team — ☐",
+            "Update change log if adjustments made — Documentation Lead — ☐"
+          ]
+        }
+      ]
+    },
+    {
+      "h3": [
+        "💡 Ministry Focus"
+      ],
+      "p": [
+        "Preparation is an act of worship. Checklists protect time, preserve peace, and honor those who serve — creating an orderly environment where the Spirit can move freely."
+      ]
+    },
+    {
+      "h2": [
+        "Feedback and Continuous Improvement"
+      ]
+    },
+    {
+      "h3": [
+        "Purpose"
+      ],
+      "p": [
+        "Feedback is a gift that strengthens both ministry and community. By sharing insight with humility and receiving correction with grace, we model discipleship and unity — ensuring the ministry continues to grow in excellence and health."
+      ]
+    },
+    {
+      "h3": [
+        "Core Principles"
+      ],
+      "ul": [
+        {
+          "li": [
+            "Constructive Spirit - Offer feedback to build up, not to criticize.",
+            "Clarity - Be specific about what worked, what didn't, and why.",
+            "Timeliness - Submit input while details are fresh.",
+            "Respect - Direct feedback to the proper leader or department.",
+            "Follow-Through - Expect a response and review any resulting updates."
+          ]
+        }
+      ]
+    },
+    {
+      "h3": [
+        "Feedback Process"
+      ],
+      "ul": [
+        {
+          "li": [
+            "Step — Action — Responsibility",
+            "1. Identify — Note the section, event, or rehearsal needing feedback. — Any volunteer or staff member",
+            "2. Submit — Send written feedback via email, online form, or printed card. — Volunteer",
+            "3. Review — Director or department lead reviews and logs feedback. — Leadership",
+            "4. Discuss — Major suggestions discussed in next leadership meeting. — Producer / Ministry Lead",
+            "5. Implement — Approved improvements added to Change Log and documentation. — Documentation Lead"
+          ]
+        }
+      ]
+    },
+    {
+      "h3": [
+        "Feedback Form Template"
+      ]
+    },
+    {
+      "h2": [
+        "Templates"
+      ]
+    },
+    {
+      "h4": [
+        "1. Rehearsal Reminder Email"
+      ],
+      "p": [
+        "Subject: [Reminder] Rehearsal - {{Date}} at {{Time}}",
+        "Hi team,",
+        "Quick reminder that rehearsal for {{Scene/Song}} is tonight at {{Location}}. Please arrive 10 minutes early for prayer and setup.",
+        "Thank you for serving with excellence!",
+        "— {{Director Name}}"
+      ]
+    },
+    {
+      "h4": [
+        "2. Post-Production Feedback Form"
+      ],
+      "p": [
+        "What went well?",
+        "What could improve next time?",
+        "Did you feel spiritually encouraged?",
+        "Any safety or technical concerns?"
+      ]
+    },
+    {
+      "h4": [
+        "3. Devotional Template"
+      ],
+      "p": [
+        "Theme: **********\\\\\\\\******** Scripture: ******\\\\\\\\****** Reflection (3 sentences): ******\\\\\\\\****** Prayer: ********\\\\\\_**********"
+      ]
+    }
+  ]
+}

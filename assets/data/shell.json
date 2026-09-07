@@ -1,0 +1,27 @@
+{
+  "app-banner": [
+    "Easter Production Handbook",
+    ""
+  ],
+  "header": {
+    "app-logo": "EASTER",
+    "app-user": ""
+  },
+  "nav": {
+    "label": [
+      "HOME",
+      "INTRODUCTION",
+      "ROLES",
+      "BASICS",
+      "REHEARSAL",
+      "PRODUCTION",
+      "MINISTRY",
+      "GLOSSARY",
+      "FAQ"
+    ]
+  },
+  "footer": {
+    "app-legal": "© Easter Production Handbook",
+    "app-version": "v.0.001"
+  }
+}

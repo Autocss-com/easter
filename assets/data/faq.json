@@ -1,0 +1,36 @@
+{
+  "section": [
+    {
+      "h1": [
+        "FAQ"
+      ],
+      "p": [
+        "Two short lists: questions about this handbook, and the technical notes the pool-violation notice links to. Placeholder text for now."
+      ]
+    },
+    {
+      "h2": [
+        "Questions"
+      ],
+      "details": [
+        {
+          "summary": "About this handbook",
+          "p": [
+            "Who is it for? Everyone serving a church stage production — leadership, cast, crew, and volunteers.",
+            "Can we adapt it? Yes. Treat it as a starting point and adjust to your church's calendar and context.",
+            "Where does the content come from? The D7460N/EASTER handbook, rendered here through the shared AutoCSS front-end."
+          ]
+        },
+        {
+          "summary": "Technical — the component pool & notices",
+          "p": [
+            "Why did a notice appear? The data asked for an element not in the shared component pool, so it was not rendered — the notice surfaces that instead of dropping it silently.",
+            "What is the component pool? A curated allow-list of element prototypes (the shared pool.html) the front-end clones. If a tag is neither on the page nor in the pool, nothing is created — a deliberate guard.",
+            "How do I add an element to the pool? Add its prototype to the shared pool.html, then reference it from your JSON by its tag name; the injector clones one per array item.",
+            "Where do error details go? Here, in this technical list — the pool-violation notice links to this section."
+          ]
+        }
+      ]
+    }
+  ]
+}
